@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Estable"}
+{"version":"1.0.1","news":"Compatible with other clothing systems"}
