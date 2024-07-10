@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Compatible with other clothing systems"}
+{"version":"1.0.2","news":"Now you can see your statistics even if you are not in the top."}
