@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Various bug fixes, ¡Check Discord!"}
+{"version":"1.0.5","news":"¡Check Discord!, important bugs fixed"}
