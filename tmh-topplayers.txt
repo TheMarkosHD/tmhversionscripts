@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Now you can see your statistics even if you are not in the top."}
+{"version":"1.0.3","news":"Many bugs fixed check discord"}
